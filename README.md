@@ -8,7 +8,7 @@ cryptowatch-client is a python client library for [cryptowatch public market res
 
 ## Installation
 
-    $ pip install cryptowatch_client
+    $ pip install cryptowatch-client
 
 ## Usage
 

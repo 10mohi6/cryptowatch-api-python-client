@@ -12,7 +12,7 @@ if os.path.exists('README.txt'):
 
 setup(
     name  = 'cryptowatch-client',
-    version = '0.1.3',
+    version = '0.1.4',
     description = 'cryptowatch-client is a python client library for cryptowatch public market rest api',
     long_description = long_description,
     license = 'MIT',
