@@ -15,7 +15,7 @@ cryptowatch-client is a python client library for [cryptowatch public market res
 ```python
 from cryptowatch_client import Client
 
-client = Clinet(timeout=30)
+client = Client(timeout=30)
 response = client.get_allowance()
 print(response.status_code, response.json())
 
